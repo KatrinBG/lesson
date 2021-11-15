@@ -35,7 +35,6 @@ public class Main {
         System.out.println("formula: " + formula);
         result = calc(x, y, z);
         System.out.println("result: " + result);
-
     }
 
     public static Integer calc(int x, int y, int z) {
